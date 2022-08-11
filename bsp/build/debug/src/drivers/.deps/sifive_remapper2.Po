@@ -1,0 +1,4 @@
+src/drivers/sifive_remapper2.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/drivers/sifive_remapper2.c \
+ metal/machine/platform.h
+metal/machine/platform.h:

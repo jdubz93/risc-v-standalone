@@ -1,0 +1,2 @@
+src/scrub.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/scrub.S

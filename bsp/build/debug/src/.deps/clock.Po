@@ -1,0 +1,6 @@
+src/clock.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/clock.c \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/clock.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h
+/home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/clock.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h:

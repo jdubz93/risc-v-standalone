@@ -1,0 +1,28 @@
+src/init.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/init.c \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/init.h \
+ metal/machine/platform.h \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/drivers/sifive_ccache0.h \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/interrupt.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/10.2.0/include/stdint.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/stdint.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/machine/_default_types.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/features.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/_newlib_version.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_intsup.h \
+ /home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_stdint.h \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/drivers/sifive_l2pf1.h
+/home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/init.h:
+metal/machine/platform.h:
+/home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/drivers/sifive_ccache0.h:
+/home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/interrupt.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/lib/gcc/riscv64-unknown-elf/10.2.0/include/stdint.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/stdint.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/machine/_default_types.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/features.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/_newlib_version.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_intsup.h:
+/home/jw/Desktop/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14/riscv64-unknown-elf/include/sys/_stdint.h:
+/home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/drivers/sifive_l2pf1.h:

@@ -1,0 +1,2 @@
+src/vector.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/vector.S

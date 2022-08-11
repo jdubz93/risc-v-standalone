@@ -1,0 +1,2 @@
+src/entry.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/entry.S

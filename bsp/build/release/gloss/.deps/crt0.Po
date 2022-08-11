@@ -1,0 +1,2 @@
+gloss/crt0.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/gloss/crt0.S

@@ -1,0 +1,2 @@
+src/trap.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/trap.S

@@ -1,0 +1,4 @@
+gloss/sys_exit.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/gloss/sys_exit.c \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/shutdown.h
+/home/jw/Desktop/sifive-standalone-project/freedom-metal/metal/shutdown.h:

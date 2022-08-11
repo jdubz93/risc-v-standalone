@@ -1,0 +1,4 @@
+src/drivers/sifive_l2pf1.o: \
+ /home/jw/Desktop/sifive-standalone-project/freedom-metal/src/drivers/sifive_l2pf1.c \
+ metal/machine/platform.h
+metal/machine/platform.h:
